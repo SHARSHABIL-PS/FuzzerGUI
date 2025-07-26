@@ -19,5 +19,5 @@
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/YourUser/RexFuzz.git
-   cd RexFuzz
+   git clone https://github.com/SHARSHABIL-PS/FuzzerGUI.git
+   cd FuzzerGUI
