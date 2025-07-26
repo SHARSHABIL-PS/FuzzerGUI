@@ -29,7 +29,7 @@ pip install -r requirements.txt
 **أو تثبيت المكاتب يدويًا:**
 
 ```bash
-pip install requests rich tkinter
+pip install library
 ```
 
 ---
