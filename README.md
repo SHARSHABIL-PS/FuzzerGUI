@@ -54,9 +54,14 @@ python RexFuzzerGUI.py
 
 - Python 3.8+
 - المكتبات:
-  - `requests`
-  - `rich`
-  - `tkinter`
+sys
+os
+threading
+requests
+time
+re
+PyQt6
+
 
 ---
 
